@@ -4,9 +4,10 @@
 
   This react application is an example dashboard that can be used for an admin role. 
 
-The application was created using a MERN stack with additional library packages from MUI and Nivo.
+The application was created using a MERN stack with additional library packages from MUI and Nivo. This application does not have back-end functionality, as it is a front-end demonstrative application.
 
 Some of the features included are tables, graphs, and calendar functionality. Please note that all data points are dummy data for demonstration purposes only.
+
 
   ## Table of Contents
   - [Installation](#installation)
